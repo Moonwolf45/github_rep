@@ -3,6 +3,7 @@
 /* @var $this yii\web\View */
 /* @var $result array */
 
+
 $this->title = 'My Yii Application';
 ?>
 <div class="site-index">
